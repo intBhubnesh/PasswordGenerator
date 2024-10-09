@@ -69,7 +69,7 @@ function App() {
             {/* main div */}
             <div className='flex justify-between items-center bg-[linear-gradient(114deg, bg-white/11 -2.84%, bg-white/27 19.84%, bg-white/75 89.74%)] rounded-[40px] pr-6 gap-10 border-4  border-white'>
                 {/* right image div */}
-                <div className='w-5/6 h-[600px]  bg-cover bg-center rounded-[40px] ' style={{backgroundImage: 'url("/public/assets/Studious Girl with Cat.jpeg")' }} >
+                <div className='w-5/6 h-[600px]  bg-cover bg-center rounded-[40px] ' style={{backgroundImage: 'url("/assets/Studious Girl with Cat.jpeg")' }} >
                 </div>
                 {/* left div */}
                 <div className='bg-white/90 h-[580px] w-[80%] rounded-[50px] flex flex-col justify-around  items-center'>
